@@ -51,6 +51,7 @@ The project structure is shown in the following figure.
 <center> 
 <img src="./figures/classification_android_annotate.png" alt="alt text" width ="800" height="400" title="Project structure">
 </center>
+
 The NCNN model files are placed in the **asset** folder, and the input image files are placed in the **drawable** folder.
 
 ## References
